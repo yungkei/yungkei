@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 🌱 Learning Erlang, re-learning Go.
 
-📫 How to reach me: https://github.com/yungkei
+📫 How to reach me: 
+ - https://github.com/yungkei
+ - https://yungkei.github.io
